@@ -2,7 +2,7 @@ package com.interview.twosum;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.com.interview.twosum.TwoSum;
+import com.interview.twosum.TwoSum;
 
 import static org.junit.jupiter.api.Assertions.*;
 
